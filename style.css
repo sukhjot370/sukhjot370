@@ -1,0 +1,32 @@
+.hello{
+      width: 70 px;
+      height: 100px;
+      margin-left: 400px;
+      margin-right: auto;
+      align-items: auto;
+      background-color: rgb(red, green, blue);
+}
+fieldset{
+      border-radius: 50px;
+      background-color: rgb(60, 255, 0);
+}
+body{
+      background-image: url("download\ \(3\).jpg"
+      );
+      background-repeat: no-repeat;
+      background-size: 710px 1400px;
+}
+Button {
+      display: block;
+      height: 40px;
+      width: 150px;
+      background-color: #ff0000;
+      border: 1px solid #000000;
+      border-radius: 40px;
+      font-size: 18px;}
+#name{
+      background-color: #0400ff;
+}
+#tee{
+      background-color: brown;
+}
